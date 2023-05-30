@@ -2,6 +2,7 @@ javac VisualComponent.java
 javac Table.java 
 javac Decorator.java
 javac WheelsDecorator.java
+javac ToalhaDecorator.java
 javac NetDecorator.java
 javac Window.java 
 javac Main.java 
